@@ -1,7 +1,7 @@
 Southworks Events
 ===
 
-Este repositorio contiene las presentaciones, ejemplos y demos de los distintos eventos realizados por Southworks. Este material está liberado bajo licencia Apache.
+Este repositorio contiene las presentaciones, ejemplos y demos de los distintos eventos en los que participó Southworks. Este material está liberado bajo licencia Apache.
  
 ### Global Windows Azure Bootcamp 2014 – Buenos Aires ###
  
